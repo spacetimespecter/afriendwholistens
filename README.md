@@ -1,2 +1,2 @@
 # afriendwholistens
-a simple discord bod
+a bot and friend who listens
